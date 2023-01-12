@@ -1,3 +1,6 @@
+*MPPD is a tool for finding complex paired sequences at the proximal ends of structural RNA.* 
+
+
 # 如何预测你的motif假节
 
 
@@ -21,6 +24,6 @@
 * R-scape predict new structure： 使用R-scape预测出新的motif结构
 
 
-MPPD is a tool for finding complex paired sequences at the proximal ends of structural RNA. 
 
+## 其他
 We will release the source code soon.
